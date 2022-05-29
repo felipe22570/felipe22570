@@ -1,5 +1,6 @@
-### <div align="center">I'm Felipe Rodriguez, full-stack developer 🚀</div>  
-  
+# <div align="center">I'm Felipe Rodriguez, full-stack developer 🚀</div>  
+ 
+ <br/>
 
 - 🔭 I’m currently working on [Melt Studio](https://www.meltstudio.co/)  
   
@@ -11,8 +12,6 @@
 
 
 ## My Skill Set  
-
-<br/>
 
 
 ### Frontend  
